@@ -31,9 +31,12 @@ var banner_300x250 = [
         name: 'TECHNO WAVE',
         code: '<a href="https://px.a8.net/svt/ejp?a8mat=2Z8KU0+94NIF6+3SQI+5ZMCH" target="_blank" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www20.a8.net/svt/bgt?aid=180119160552&wid=011&eno=01&mid=s00000017721001006000&mc=1"></a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=2Z8KU0+94NIF6+3SQI+5ZMCH" alt="">',
     },
+    {
+        name: 'TechClips',
+        code: '<a href="https://px.a8.net/svt/ejp?a8mat=35HN3E+6JRW1U+3SWM+BZ0Z5" target="_blank" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www22.a8.net/svt/bgt?aid=190619690396&wid=011&eno=01&mid=s00000017743002011000&mc=1"></a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=35HN3E+6JRW1U+3SWM+BZ0Z5" alt="">',
+    }
 ];
 
 var num = Math.floor(Math.random() * banner_300x250.length)
 document.write('<small>スポンサーリンク</small><br>')
 document.write(banner_300x250[num].code);
-
