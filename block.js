@@ -34,6 +34,10 @@ var banner_300x250 = [
     {
         name: 'TechClips',
         code: '<a href="https://px.a8.net/svt/ejp?a8mat=35HN3E+6JRW1U+3SWM+BZ0Z5" target="_blank" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www22.a8.net/svt/bgt?aid=190619690396&wid=011&eno=01&mid=s00000017743002011000&mc=1"></a><img border="0" width="1" height="1" src="https://www11.a8.net/0.gif?a8mat=35HN3E+6JRW1U+3SWM+BZ0Z5" alt="">',
+    },
+    {
+        name: 'メンタ',
+        code: '<a href="https://px.a8.net/svt/ejp?a8mat=35LMET+AL1NNM+48EO+609HT" target="_blank" rel="nofollow"><img border="0" width="300" height="250" alt="" src="https://www27.a8.net/svt/bgt?aid=190805429640&wid=011&eno=01&mid=s00000019752001009000&mc=1"></a><img border="0" width="1" height="1" src="https://www13.a8.net/0.gif?a8mat=35LMET+AL1NNM+48EO+609HT" alt="">'
     }
 ];
 
